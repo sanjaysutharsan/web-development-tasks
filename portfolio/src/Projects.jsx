@@ -25,7 +25,8 @@ export default function Projects() {
               </p>
             </div>
             <div className="flex flex-col md:flex-row space-x-2 shadow-lg bg-gray-900 rounded-lg pl-4">
-            <img src={img3} alt="projectimage" className=" rounded-lg h-[150px]  w-[230px]" />
+            <img src={img3} alt="projectimage" className="
+            \ rounded-lg h-[150px]  w-[230px]" />
             <p className="text-2xl">Mobile App Develop<br/><p className="text-sm">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati nulla reprehenderit mollitia impedit quibusdam facere minus adipisci. Impedit doloremque commodi eos unde autem. Accusamus modi, eum ipsa porro commodi distinctio.</p>
             </p>
             </div>
