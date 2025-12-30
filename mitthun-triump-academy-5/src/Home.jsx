@@ -20,16 +20,16 @@ export default function Home() {
           px-6 md:ml-10 
           text-left md:text-left
           space-y-6
-           mb-10 md:w-1/2 md:h-1/2 md:mt-50 
+           mb-10 md:w-1/2 md:h-1/2 md:mt-50 mt-40
         "
       >
         <h1 className="text-white text-4xl sm:text-4xl md:text-6xl">
           Smarter Audits,<br />Stronger Futures.
         </h1>
 
-        <p className="text-white text-sm sm:text-lg md:text-2xl max-w-xl mb-15 mx-auto md:mx-0">
-          Empowering future accountants and auditors through practical learning,
-          data-driven insights, and global standards.
+        <p className="text-white text-sm sm:text-lg md:text-2xl max-w-xl mb-15 mx-0 md:mx-0">
+          Empowering future accountants and auditors<br/> through practical learning,
+          data-driven insights, and<br/> global standards.
         </p>
 
         {/* Buttons */}

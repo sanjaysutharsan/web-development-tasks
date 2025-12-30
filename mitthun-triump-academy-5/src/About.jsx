@@ -27,7 +27,7 @@ export default function About() {
               <path d="M209.962 98.2568V145.742L160 169.779L110.038 145.742V98.2568L160 74.2197L209.962 98.2568Z" fill="#000080" fillOpacity="0.8" stroke="white" strokeWidth="4"/>
             </svg>
             <svg
-              className=" md:block absolute md:-top-20 md:left-91 z-20 hidden"
+              className=" md:block absolute md:-top-20 md:left-79 z-20 hidden"
               width="220"
               height="180"
               viewBox="0 0 220 172"
@@ -43,12 +43,12 @@ export default function About() {
             <img
               src={aboutImage}
               alt="About Us"
-              className="relative z-10 pt-5 w-80 md:w-600 h-auto md:h-180 md:ml-8"
+              className="relative z-10 pt-5 w-80 md:w-600 h-auto md:h-180"
             />
 
             {/* SVG 2 – hide */}
             <svg
-              className=" absolute right-57.5 top-105 z-20 md:hidden"
+              className=" absolute right-39.5 top-105 z-20 md:hidden"
               width="180"
               height="180"
               viewBox="0 0 264 218"
@@ -60,7 +60,7 @@ export default function About() {
               <path d="M183.509 172.842L131.53 202.583L80.3453 170.417L80.3449 124.522L133.13 93.5769L183.51 124.386L183.509 172.842Z" fill="#000080" fillOpacity="0.8" stroke="white" strokeWidth="4"/>
             </svg>
             <svg
-              className="md:block absolute right-70 top-157 z-20 hidden"
+              className="md:block absolute right-48 top-157 z-20 hidden"
               width="264"
               height="218"
               viewBox="0 0 264 218"

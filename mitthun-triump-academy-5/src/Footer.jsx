@@ -80,11 +80,11 @@ export default function Footer() {
               Quick links
             </h3>
             <ul className="space-y-3 text-gray-300 text-lg md:text-xl">
-              <li><a href="#">Home</a></li>
-              <li><a href="#about">About us</a></li>
-              <li><a href="#courses">Courses</a></li>
-              <li><a href="#mentors">Mentors</a></li>
-              <li><a href="#contact">Contact us</a></li>
+              <li><a className="hover:text-blue-400 hover:underline" href="#">Home</a></li>
+              <li><a className="hover:text-blue-400 hover:underline" href="#about">About us</a></li>
+              <li><a className="hover:text-blue-400 hover:underline" href="#courses">Courses</a></li>
+              <li><a className="hover:text-blue-400 hover:underline" href="#mentors">Mentors</a></li>
+              <li><a className="hover:text-blue-400 hover:underline" href="#contact">Contact us</a></li>
             </ul>
           </div>
 
@@ -94,9 +94,9 @@ export default function Footer() {
               Policies
             </h3>
             <ul className="space-y-3 text-gray-300 text-lg md:text-xl">
-              <li>Privacy policy</li>
-              <li>Terms of use</li>
-              <li>Legal information</li>
+              <li className="hover:text-blue-400 hover:underline">Privacy policy</li>
+              <li className="hover:text-blue-400 hover:underline">Terms of use</li>
+              <li className="hover:text-blue-400 hover:underline">Legal information</li>
             </ul>
           </div>
         </div>
