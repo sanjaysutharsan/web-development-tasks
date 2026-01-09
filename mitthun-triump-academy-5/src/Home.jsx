@@ -9,7 +9,7 @@ export default function Home() {
       <img
         src={home}
         alt="Home"
-        className="w-full h-180 md:h-full object-cover"
+        className="w-full h-screen md:h-full object-cover"
       />
 
       {/* Overlay */}
@@ -20,7 +20,7 @@ export default function Home() {
           px-6 md:ml-10 
           text-left md:text-left
           space-y-6
-           mb-10 md:w-1/2 md:h-1/2 md:mt-50 mt-40
+           mb-10 md:w-1/2 md:h-1/2 md:mt-50 mt-20
         "
       >
         <h1 className="text-white text-4xl sm:text-4xl md:text-6xl">
