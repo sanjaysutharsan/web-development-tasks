@@ -9,7 +9,7 @@ export default function Home() {
       <img
         src={home}
         alt="Home"
-        className="w-full h-screen md:h-full object-cover"
+        className="w-full h-full md:h-full object-cover"
       />
 
       {/* Overlay */}
